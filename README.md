@@ -24,28 +24,47 @@ AND use pre-determined bot scripts
 # Evaluate
 
 Results:
-        PREDICT                   ACTUAL
+-        -PREDICT                   -ACTUAL
 move 1 [ 85941.016 132009.2  ] ['82861', ' 148330']
+
 move 2 [ 85845.72 132180.05] ['82801', ' 149368']
+
 move 3 [ 85836.29 132635.95] ['81572', ' 149466']
+
 move 4 [ 85384.33 133029.98] ['81331', ' 149685']
+
 move 5 [ 84900.375 133140.39 ] ['81331', ' 149685']
+
 move 6 [ 26151.623 164524.36 ] ['20467', ' 187061']
+
 move 7 [ 25944.8 163758.3] ['19703', ' 185483']
+
 move 8 [ 25547.104 162507.28 ] ['20896', ' 184693']
+
 move 9 [ 25667.293 161352.3  ] ['20896', ' 184693']
+
 move 10 [117203.83 193819.92] ['111364', ' 219123']
+
 move 11 [117162.38 193727.06] ['110271', ' 219030']
+
 move 12 [116812.2 193655.7] ['110075', ' 218989']
+
 move 13 [116416.46 193444.73] ['110080', ' 217990']
+
 move 14 [115993.15 192958.42] ['110032', ' 217279']
+
 move 15 [115801.56 192388.67] ['108880', ' 217539']
+
 move 16 [115522.29 192184.67] ['107862', ' 217546']
+
 move 17 [114909.22 192039.25] ['107123', ' 218150']
+
 move 18 [114223.25 192170.61] ['107122', ' 217833']
+
 move 19 [113764.64 192081.23] ['107110', ' 217123']
+
 move 20 [113459.62 191770.28] ['107110', ' 217123']
 
-Predicted moves aligns quite well with actual moves.
+Predicted moves align quite well with actual moves.
 
-For instance, move 8 and 9 in which indicated a player did not move, but stay still in that position. LSTM model could maintain the similar move although the movements were complete novel.
+For instance, moves 8 and 9 indicate a player did not move but stayed still in those coordinates. LSTM model could maintain a similar move, although the movements were completely novel.
