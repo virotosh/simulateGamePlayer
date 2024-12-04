@@ -67,4 +67,4 @@ move 20 [113459.62 191770.28] ['107110', ' 217123']
 
 Predicted moves align quite well with actual moves.
 
-For instance, moves 8 and 9 indicate a player did not move but stayed still in those coordinates. LSTM model could maintain a similar move, although the movements were completely novel.
+For instance, moves 8 and 9 indicate a player did not move but stayed still in those coordinates. LSTM model could maintain similar moves with actual moves, although the predicted moves were completely novel.
