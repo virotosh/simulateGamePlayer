@@ -1,2 +1,2 @@
-# simulateL2Player
-The aim to simulated movements of game players to make bots move or walk like humans.
+# Simulating Game Player
+The aim is to simulate the movements of game players to make bots move or walk like humans.
