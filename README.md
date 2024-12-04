@@ -14,3 +14,9 @@ LSTM, train sequences of moves
 # Data
 Scrape behaviors from the gaming forum, "move to loc" scripts
 AND use pre-determined bot scripts
+
+# Input
+[[X1,Y1],[X2,Y2],[X3,Y3]]
+
+# Output
+[[X4,Y4]]
