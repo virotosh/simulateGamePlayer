@@ -8,7 +8,7 @@ Train sequences of moves
 
 Predict next moves
 
-# Models 
+# Model
 LSTM, train sequences of moves
 
 # Data
