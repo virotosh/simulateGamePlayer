@@ -2,7 +2,7 @@
 
 Problem settings: Bots are easy to detect due to stereotype movements e.g., predefined coordinates (X,Y)
 
-Aim: simulate the movements of game players to make bots move or walk like humans.
+Aim: simulate the walks/moves of game players to make bots walk somewhat like humans.
 
 Train sequences of moves
 
