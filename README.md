@@ -2,7 +2,7 @@
 
 Problem settings: Bots walk stereotype e.g., predefined coordinates (X,Y)
 
-Aim: generate the fake walks from game players to make bots walk.
+Aim: generate the fake walks/moves from game players to make bots walk.
 
 Train sequences of moves
 
