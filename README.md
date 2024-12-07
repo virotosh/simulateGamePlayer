@@ -1,8 +1,8 @@
 # Simulating Game Player
 
-Problem settings: Bots are easy to detect due to stereotype movements e.g., predefined coordinates (X,Y)
+Problem settings: Bots walk stereotype e.g., predefined coordinates (X,Y)
 
-Aim: simulate the walks/moves of game players to make bots walk somewhat like humans.
+Aim: simulate the walks/moves of game players to make bots walk.
 
 Train sequences of moves
 
